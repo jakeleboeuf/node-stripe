@@ -1,6 +1,8 @@
 # node-stripe
 
 [![Build Status](https://travis-ci.org/davidrivera/node-stripe.png?branch=master)](https://travis-ci.org/davidrivera/node-stripe)
+[![Dependency Status](https://david-dm.org/jakeleboeuf/node-stripe.png)](https://david-dm.org/jakeleboeuf/node-stripe)
+[![Gittip](http://badgr.co/gittip/jakeleboeuf.png)](https://www.gittip.com/jakeleboeuf/)
 
 Access to the [Stripe](https://stripe.com/) [API](https://stripe.com/docs/api).
 
